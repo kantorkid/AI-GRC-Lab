@@ -64,7 +64,7 @@ This assessment maps to the four core NIST AI RMF functions:
 ### Baseline Model Performance
 | Metric | Value |
 |--------|-------|
-| Overall Accuracy | 70.0% |
+| Overall Accuracy | 65.5% |
 | Female Recall (TPR) | 94.6% |
 | Male Recall (TPR) | 48.6% |
 | Female Precision | 61.5% |
@@ -119,7 +119,7 @@ Both strategies improved fairness metrics with measurable reductions in TPR disp
 | DP Logistic Regression (ε=1.0) | 47.0% |
 | Federated Learning | 77.0% |
 
-**Finding:** Differential Privacy imposed a significant utility cost — accuracy dropped from 70% to approximately 47% across epsilon values, suggesting strong privacy guarantees come at substantial performance cost for this task. Federated Learning achieved 77% accuracy while simulating a privacy-preserving distributed training approach, demonstrating a more favorable privacy-utility balance for this use case.
+**Finding:** Differential Privacy imposed a significant utility cost — accuracy dropped from 65.5% to approximately 47% across epsilon values, suggesting strong privacy guarantees come at substantial performance cost for this task. Federated Learning achieved 77% accuracy while simulating a privacy-preserving distributed training approach, demonstrating a more favorable privacy-utility balance for this use case.
 
 ---
 
