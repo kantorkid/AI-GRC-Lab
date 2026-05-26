@@ -1,6 +1,5 @@
-# AI-Bias-Assessment-NIST-RMF
-
-AI Bias Risk Assessment: Facial Recognition Using NIST AI RMF
+# AI GRC Lab
+## AI Bias Risk Assessment: Facial Recognition Using NIST AI RMF
 
 **Authors:** Jake Kantor, Greg Arcand, Marcus Lee
 **Institution:** Old Dominion University — M.S. Cybersecurity, AI Security  
