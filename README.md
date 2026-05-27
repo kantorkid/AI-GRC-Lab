@@ -1,4 +1,4 @@
-# AI GRC Lab
+# AI Governance & Technical Auditing Framework
 ## AI Bias Risk Assessment: Facial Recognition Using NIST AI RMF
 
 **Authors:** Jake Kantor, Greg Arcand, Marcus Lee
