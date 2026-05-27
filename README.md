@@ -186,6 +186,7 @@ ai-grc-lab/
 ├── executive_summary.md
 ├── project_self_assessment.md
 ├── requirements.txt
+├── SOP-AI-Bias-Risk-Assessment.md
 ├── notebooks/
 │   └── BiasAssessment.ipynb
 ├── data/
